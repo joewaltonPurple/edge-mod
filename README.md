@@ -1,3 +1,5 @@
+[![Code Health](https://landscape.io/github/joewaltonPurple/edge-mod/develop/landscape.svg?style=flat)](https://landscape.io/github/joewaltonPurple/edge-mod/develop)
+
 Copyright (c) 2016 Crown Copyright (CERT-UK)  
 
 Permission is hereby granted, free of charge, to use, copy, modify, merge, distribute and/or sub-licence the software together with any associated documentation provided that it is solely for your own internal use and subject to the following conditions:
