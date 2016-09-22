@@ -1,5 +1,4 @@
-{ "name":"certuk_mod",
-  "description":"CERT-UK Knowledge Base modifications",
+{ "name":"certuk_mod", "description":"CERT-UK Knowledge Base modifications-joe",
   "id":"684f59ac-94ce-4824-8664-02494116071b",
   "publisher": "CERT-UK",
   "edge_min": "2.8.*",
